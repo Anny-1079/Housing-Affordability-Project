@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+folium
+streamlit-folium
+rapidfuzz
+geopy
